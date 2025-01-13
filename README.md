@@ -12,3 +12,4 @@ Este es un mensaje editado completamente desde GitHub
 
 
 ## Estos cambios son nuevos desde Local
+## Estos cambios son nuevos desde GitHub
